@@ -15,6 +15,13 @@ Haskell
 
 
 
+Scala
+![image](https://user-images.githubusercontent.com/70820314/204572222-27b9a6c6-9ea7-4087-94ed-60a5063b4cca.png)
+![image](https://user-images.githubusercontent.com/70820314/204574270-c0d4f835-f523-4f97-b645-16095c2a324e.png)
+
+
+
+
 2.	Resuelva el ejercicio 1 utilizando funciones temporales (lamba) (Haskell, python).
 
 Haskell
