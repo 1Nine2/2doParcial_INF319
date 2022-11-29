@@ -39,6 +39,13 @@ Haskell
 ![image](https://user-images.githubusercontent.com/70820314/204555134-b98d1849-e8ee-4024-bfa5-21564bc62f22.png)
 
 
+Scala
+
+
+![image](https://user-images.githubusercontent.com/70820314/204579417-0e74380e-3709-4a9f-8e2c-642cd5807ffa.png)
+
+
+
 4.	Obtener una lista de 1 a n (parámetroprimos 5 = [1,2,3,5,7]) de números primos (Haskell y scala).
 Haskell
 
