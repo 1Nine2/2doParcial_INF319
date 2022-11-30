@@ -53,3 +53,6 @@ Haskell
 ![image](https://user-images.githubusercontent.com/70820314/204541429-57101a84-bb63-4e18-a8a9-3cdbced9c03e.png)
 
 5.	En c# consuma el ejercicio 1 (f#) con el uso de servicios web (ambos recursivo y estructurado).
+
+![image](https://user-images.githubusercontent.com/70820314/204844592-b10737d2-d4ad-4502-b9a1-1a749add9f34.png)
+
